@@ -1,6 +1,8 @@
 # Loading Screen Animation
 
 A simple and responsive loading screen animation created using pure HTML and CSS. Ideal for adding an elegant loading experience to your web applications or websites.
+
+Live Demo : https://yashkumawat01.github.io/Loading-Screen-Animation/
 ______________________________________________________________________________________________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________
 
